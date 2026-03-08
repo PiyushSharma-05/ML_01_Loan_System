@@ -1,0 +1,4 @@
+*.png
+!model_comparison.png
+.ipynb_checkpoints/
+__pycache__/
